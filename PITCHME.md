@@ -23,7 +23,8 @@
 
 오현지 : 
 
-![img](https://user-images.githubusercontent.com/46040849/50434434-7d760200-0920-11e9-90bf-875831b91430.png)
+![img](https://user-images.githubusercontent.com/46040849/50434475-a5fdfc00-0920-11e9-96f8-61b5edb3be18.png)
+
 
 
 ---
