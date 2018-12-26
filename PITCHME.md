@@ -16,7 +16,8 @@
 
 한명우 : 
 
-![img](./img/한명우.jpg)
+![img](https://user-images.githubusercontent.com/37096425/50433670-f96e4b00-091c-11e9-9d99-11312737c14a.jpg)
+
 
 ---
 
