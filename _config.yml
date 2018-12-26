@@ -21,7 +21,7 @@ title_separator          : "-"
 name                     : "Your Name"
 description              : "An amazing website."
 url                      : "https://dalebae.github.io"
-baseurl                  : "/ssafy-4-1"
+baseurl                  : "ssafy-4-1"
 repository               : 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
