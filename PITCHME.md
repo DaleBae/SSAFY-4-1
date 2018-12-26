@@ -31,6 +31,7 @@
 
 배대일 : 
 
+![img](https://user-images.githubusercontent.com/22409862/50434471-a1394800-0920-11e9-8f35-6e562ce6f826.jpg)
 ---
 
 <연말 계획 및 12월 31일에 하고 싶은 것>
