@@ -23,6 +23,9 @@
 
 오현지 : 
 
+![img](https://user-images.githubusercontent.com/46040849/50434434-7d760200-0920-11e9-90bf-875831b91430.png)
+
+
 ---
 
 배대일 : 
